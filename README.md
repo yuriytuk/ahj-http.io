@@ -1,6 +1,6 @@
 ![CI](https://github.com/yuriytuk/ahj-http/actions/workflows/web.yml/badge.svg)
 
-[![Build status](https://ci.appveyor.com/api/projects/status/mhm9615vvjgq4bni?svg=true)](https://ci.appveyor.com/project/yuriytuk/ahj-http)
+[![Build status](https://ci.appveyor.com/api/projects/status/0ftwtxem2iva26m9?svg=true)](https://ci.appveyor.com/project/yuriytuk/ahj-http-io)
 
 # Домашнее задание к занятию "7. Работа с HTTP"
 Правила сдачи задания:
