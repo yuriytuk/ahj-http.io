@@ -16,6 +16,10 @@ build: off  # отключаем встроенную в appveyor систему
 
 build_script:
   - yarn build   # команда сборки
+  
+environment:
+  my_variable:
+    secure: UuGocukbD9dM5BWalqQg6ALRHbV6uFigodBxd3GBdpvEJqL1Wv8SpCe67xXxPYxR
 
 test_script:
   - yarn lint && yarn test  # скрипт тестирования
